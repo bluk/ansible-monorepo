@@ -1,0 +1,32 @@
+[submodule "ansible-role-pyenv"]
+	path = ansible-role-pyenv
+	url = git@github.com:bluk/ansible-role-pyenv.git
+	branch = master
+[submodule "ansible-role-homebrew"]
+	path = ansible-role-homebrew
+	url = git@github.com:bluk/ansible-role-homebrew.git
+	branch = master
+[submodule "ansible-role-grpc-swift"]
+	path = ansible-role-grpc-swift
+	url = git@github.com:bluk/ansible-role-grpc-swift.git
+	branch = master
+[submodule "ansible-role-symlink-repo"]
+	path = ansible-role-symlink-repo
+	url = git@github.com:bluk/ansible-role-symlink-repo.git
+	branch = master
+[submodule "ansible-role-git-clone"]
+	path = ansible-role-git-clone
+	url = git@github.com:bluk/ansible-role-git-clone.git
+	branch = master
+[submodule "ansible-role-import-gpg-repo"]
+	path = ansible-role-import-gpg-repo
+	url = git@github.com:bluk/ansible-role-import-gpg-repo.git
+	branch = master
+[submodule "ansible-role-rbenv"]
+	path = ansible-role-rbenv
+	url = git@github.com:bluk/ansible-role-rbenv.git
+	branch = master
+[submodule "ansible-role-nodenv"]
+	path = ansible-role-nodenv
+	url = git@github.com:bluk/ansible-role-nodenv.git
+	branch = master
