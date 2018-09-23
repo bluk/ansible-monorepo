@@ -30,3 +30,7 @@
 	path = ansible-role-nodenv
 	url = git@github.com:bluk/ansible-role-nodenv.git
 	branch = master
+[submodule "ansible-role-hashicorp"]
+	path = ansible-role-hashicorp
+	url = git@github.com:bluk/ansible-role-hashicorp.git
+	branch = master
