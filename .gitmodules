@@ -34,3 +34,7 @@
 	path = ansible-role-hashicorp
 	url = git@github.com:bluk/ansible-role-hashicorp.git
 	branch = master
+[submodule "ansible-role-1password-cli"]
+	path = ansible-role-1password-cli
+	url = git@github.com:bluk/ansible-role-1password-cli.git
+	branch = master
