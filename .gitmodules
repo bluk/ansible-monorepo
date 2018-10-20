@@ -38,3 +38,7 @@
 	path = ansible-role-1password-cli
 	url = git@github.com:bluk/ansible-role-1password-cli.git
 	branch = master
+[submodule "ansible-role-goenv"]
+	path = ansible-role-goenv
+	url = git@github.com:bluk/ansible-role-goenv.git
+	branch = master
