@@ -42,3 +42,7 @@
 	path = ansible-role-goenv
 	url = git@github.com:bluk/ansible-role-goenv.git
 	branch = master
+[submodule "ansible-role-swiftenv"]
+	path = ansible-role-swiftenv
+	url = git@github.com:bluk/ansible-role-swiftenv.git
+	branch = master
